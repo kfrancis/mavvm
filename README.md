@@ -1,8 +1,3 @@
 # mavvm
 
-This project is not maintained at all.    
-It was meant to be a short-lived solution to allow myself and potentially others to start working on new apps with .net maui. 
-
-I strongly suggest to use [prism.maui](https://github.com/PrismLibrary/Prism.Maui) from now on.
-
-Cheers.
+Prism.Maui doesn't work for us, as we're trying to use AppShell and this was probably the closest solution. They also don't support it whatsoever and likely won't.
